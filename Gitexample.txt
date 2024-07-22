@@ -1,0 +1,89 @@
+{
+    "data": {
+        "categories": [
+            "light",
+            "pass",
+            "mance",
+            "tour",
+            "high ",
+            "wint"
+        ],
+        "categoryDisplay": {
+            "light",
+            "pass",
+            "perfor",
+            "tour",
+            "ultrae",
+            "wint"
+        },
+        "marketingCategories": [
+            "all ",
+            "ter",
+            "cuv",
+            "electric",
+            "nger",
+            "perf",
+            "flat",
+            "sed",
+            "spor",
+            "sum",
+            "tou",
+            "ck",
+            "ult",
+            "ter"
+        ],
+        "marketingCategoriesDisplay": {
+            "all ",
+            "allter"
+            "suv",
+            "elec",
+            "pass",
+            "per",
+            "lat",
+            "sedan",
+            "spor",
+            "sum",
+            "tou",
+            "truc",
+            "ultr",
+            "winr"
+        },
+        "seasonDisplay": {
+            "son": "son",
+            "sum": "Sum",
+            "wint": "Wint"
+        },
+        "seasons": [
+            "son",
+            "sum",
+            "wint"
+        ],
+        "subBrands": [
+            "zak",
+            "guard",
+            "due",
+            "vis",
+            "eco",
+            "nza",
+            "tur",
+            "ale",
+            "weat"
+        ],
+        "vehicleTypeDisplay": {
+            "cu": "Cros",
+            "mv": "Mini",
+            "paoo": "Pass",
+            "suf": "Sport",
+            "trk": "Truck",
+            "val": "Com"
+        },
+        "vehicleTypes": [
+            "cuvh",
+            "mvhan",
+            "paooss",
+            "suvo",
+            "trko",
+            "vanp"
+        ]
+    }
+}
